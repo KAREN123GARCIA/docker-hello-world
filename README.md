@@ -1,5 +1,5 @@
-# docker-hello-world
 🚀 Hola Mundo con Docker y Node.js 🐳
+
 ¡Hola! Soy Karen 🌸
 Estoy en la materia de Programación Distribuida y este es mi primer proyecto con Docker 🧑‍💻.
 
